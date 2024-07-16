@@ -10,3 +10,4 @@ Currently, two official plugins are available:
 # Currency_Converter
 # Currency_Converter
 # Currency_Con
+# Currency_Con
